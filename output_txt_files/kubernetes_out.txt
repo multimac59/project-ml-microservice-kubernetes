@@ -1,3 +1,13 @@
+Following are the lines copied when make_prediction.sh was executed and it's output:
+muditmittal@MacBook-Pro project-ml-microservice-kubernetes % ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+Following are the lines show status of pod after execution of run_kubernetes.sh as well as output when make_prediction.sh was executed from other terminal window.
 (devops) muditmittal@MacBook-Pro project-ml-microservice-kubernetes % ./run_kubernetes.sh 
 NAME                                 READY   STATUS    RESTARTS   AGE
 project-ml-microservice-kubernetes   1/1     Running   0          5m47s
