@@ -63,7 +63,7 @@ source .devops/bin/activate
 * Dockerfile: uses this file to deploy an image for the application to be run in docker container.
 * make_redictions.sh: shell script which provides input for housing price prediction.
 * Makefile: having useful commands to setup, install environment and lint the application code.
-requirements.txt: having all the packages and their versions need to be installed for running the application.
-run_docker.sh: shell script to build and run application in docker container.
-run_kubernetes.sh: shell script to build and run application in kubernetes.
-upload_docker.sh: shell script having commands to upload image to docker hub.
+* requirements.txt: having all the packages and their versions need to be installed for running the application.
+* run_docker.sh: shell script to build and run application in docker container.
+* run_kubernetes.sh: shell script to build and run application in kubernetes.
+* upload_docker.sh: shell script having commands to upload image to docker hub.
