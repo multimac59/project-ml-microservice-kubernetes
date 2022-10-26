@@ -1,0 +1,18 @@
+(devops) muditmittal@MacBook-Pro project-ml-microservice-kubernetes % ./upload_docker.sh 
+Docker ID and Image: multimac59/project-ml-microservice-kubernetes
+Password: 
+Login Succeeded
+The push refers to repository [docker.io/multimac59/project-ml-microservice-kubernetes]
+62a7c073c83e: Pushed 
+43142616d9cc: Pushed 
+c528bc2797f4: Pushed 
+799a7872c8c7: Mounted from library/python 
+715450468940: Mounted from library/python 
+c9d608035aef: Mounted from library/python 
+bb9c02680a15: Mounted from library/python 
+a637c551a0da: Mounted from library/python 
+2c8d31157b81: Mounted from library/python 
+7b76d801397d: Mounted from library/python 
+f32868cde90b: Mounted from library/python 
+0db06dff9d9a: Mounted from library/python 
+latest: digest: sha256:8428f9ea2651288801b29d08cef2193aa0a7045a38682a5e5177a7031fc8b0cd size: 2848
