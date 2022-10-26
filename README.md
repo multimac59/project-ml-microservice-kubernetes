@@ -1,7 +1,5 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/multimac59/project-ml-microservice-kubernetes/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/multimac59/project-ml-microservice-kubernetes/tree/master)
 
-<include a CircleCI status badge, here>
-
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
