@@ -61,7 +61,7 @@ source .devops/bin/activate
     * upload_image_log.txt: having output shows docker image is uploaded successfully to docker hub.
 * app.py: python application script
 * Dockerfile: uses this file to deploy an image for the application to be run in docker container.
-* make_redictions.sh: shell script which provides input for housing price prediction.
+* make_prediction.sh: shell script which provides input for housing price prediction.
 * Makefile: having useful commands to setup, install environment and lint the application code.
 * requirements.txt: having all the packages and their versions need to be installed for running the application.
 * run_docker.sh: shell script to build and run application in docker container.
