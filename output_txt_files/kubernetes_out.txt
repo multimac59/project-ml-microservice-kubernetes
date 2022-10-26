@@ -1,4 +1,3 @@
-<paste log output from Kubernetes-mediated prediction, here>
 (devops) muditmittal@MacBook-Pro project-ml-microservice-kubernetes % ./run_kubernetes.sh 
 NAME                                 READY   STATUS    RESTARTS   AGE
 project-ml-microservice-kubernetes   1/1     Running   0          5m47s
